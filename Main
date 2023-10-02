@@ -1,5 +1,5 @@
 repeat task.wait() until game:IsLoaded()
-if game.PlaceId == 13772394625 then
+if game.PlaceId == 13772394625 or 14732610803 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Blade%20Ball"))()
 elseif game.PlaceId == 142823291 or 335132309 or 636649648 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Free'))()
