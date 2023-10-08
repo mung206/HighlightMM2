@@ -1,5 +1,5 @@
 if game.PlaceId == 13772394625 or game.PlaceId == 14732610803 then
-    print(script_key)
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/177d04d005abf79bcc2ad092d35d6e62.lua"))()
 elseif game.PlaceId == 142823291 or game.PlaceId == 335132309 or game.PlaceId == 636649648 then
-    print(script_key)
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/75128ac7f49f9c3017533547d8e13046.lua"))()
 end
