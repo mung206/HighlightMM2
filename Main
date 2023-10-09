@@ -6,7 +6,7 @@ if script_key and script_key ~= "" then
         loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/75128ac7f49f9c3017533547d8e13046.lua"))()
     end
 else
-    if game.PlaceId == 13772394625 or 14732610803 and 14915220621 then then
+    if game.PlaceId == 13772394625 or 14732610803 and 14915220621 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Blade%20Ball"))()
     elseif game.PlaceId == 142823291 or game.PlaceId == 335132309 or game.PlaceId == 636649648 then
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Free'))()
