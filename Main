@@ -9,7 +9,7 @@ if script_key and script_key ~= "" then
 else
     if placeid == 142823291 or placeid == 335132309 or placeid == 636649648 then
         --loadstring(game:HttpGet('https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Free'))()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/ArrayField/a1108a0d428bb86709119585e55d08dffe3f5fff/MyArrayV6"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/ArrayField/main/MyArrayV6"))()
     elseif placeid == 13772394625 or placeid == 14732610803 or placeid == 14915220621 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Blade%20Ball"))()
     end
